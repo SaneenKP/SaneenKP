@@ -46,7 +46,7 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
   <a href="https://github.com/SaneenKP/github-readme-stats"><img align="right" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaneenKP&layout=compact&theme=highcontrast&title_color=94ff23"></a>
 
 </p>
-
+<br>
 <p align="left">
   <a href="https://github.com/SaneenKP/github-readme-activity-graph"><img alt="Saneen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaneenKP&bg_color=000000&color=94ff23&line=94ff23&point=ff2395&hide_border=true" /></a>
 </p>
@@ -55,7 +55,6 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
 
 ### 👨‍💻 Programming languages
 ___
-<br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -74,7 +73,6 @@ ___
   
 ### 🧰 Frameworks and libraries
 ___
-<br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -89,7 +87,6 @@ ___
 
 ### 🗄️ Databases and cloud hosting
 ___
-<br>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -103,6 +100,7 @@ ___
 
 
 ### 💻 Software and tools
+___
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -120,7 +118,8 @@ ___
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<br><br>
+<br><br><br><br>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaneenKP">
