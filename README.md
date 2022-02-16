@@ -49,6 +49,8 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
 <a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=SaneenKP&theme=highcontrast&hide_border=true&fire=94ff23&ring=94ff23"></a>
  <a href="https://github.com/SaneenKP/github-readme-stats"><img align="left" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaneenKP&layout=compact&hide_border=true&theme=highcontrast&title_color=94ff23"></a>
 </p>
+<a href="https://github.com/SaneenKP/github-readme-stats"><img align="right" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=SaneenKP&hide_border=true&theme=highcontrast&title_color=94ff23"></a>
+</p>
 
 <br>
 <p align="left">
