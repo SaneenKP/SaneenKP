@@ -25,9 +25,11 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
 </p>
 
 <!-- Personal Stuffs -->
+<img align="right" alt="GIF" src="https://github.com/SaneenKP/SaneenKP/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <h3> Talking about personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on improving my android development 😉
+- 👨🏽‍💻 I’m currently working on improving my android development skills 😉
 
 - 🌱 I’m currently learning Golang ( very much intresting tool ) and problem solving.
 
@@ -36,6 +38,8 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
 - 💬 Ask me about anything || teach me about anythin.. Always happy to help and happy to get helped :)
 
 - 📫 How to reach me **[saneenkp2000@gmail.com](saneenkp2000@gmail.com)**
+<br>
+
 
 
 ## 🏆 Github Stats
