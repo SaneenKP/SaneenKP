@@ -29,15 +29,15 @@ I'm Saneen K P. I'm a final year student pursuing Bachelor's in Information Tech
 
 <h3> Talking about personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on improving my android development skills 😉
+- 👨🏽‍💻 I’m currently working on improving my android development skills 😉.
 
-- 🌱 I’m currently learning Golang ( very much interesting tool ) and problem solving :pick:	
+- 🌱 I’m currently learning Golang ( very much interesting tool ) and problem solving :pick:.	
 
 - :open_book:	 Looking for open source projects to contribute.
 
-- 💬 Ask me about anything || teach me about anything.. Always happy to help and happy to get helped :heart:	
+- 💬 Ask me about anything || teach me about anything.. Always happy to help and happy to get helped :heart:.	
 
-- 📫 How to reach me **[saneenkp2000@gmail.com](saneenkp2000@gmail.com)**
+- 📫 How to reach me **[saneenkp2000@gmail.com](saneenkp2000@gmail.com)**.
 <br>
 
 
