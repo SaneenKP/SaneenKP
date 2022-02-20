@@ -19,7 +19,7 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Technology 🎓 from Cochin University of Science and Technology (CUSAT) 🏛. I'm a dreadfully curios person and a passionate learner who was always aligned towards building things by myself :man_shrugging:		. 
+I'm Saneen K P. I'm a final year student pursuing Bachelor's in Information Technology 🎓 from Cochin University of Science and Technology (CUSAT) 🏛. I'm a dreadfully curios person and a passionate learner who was always aligned towards building things by myself :man_shrugging:		. 
  My journey started when i realised that i could just look at the assembly of a mechanical device and figure out how it was made, but was unable to do the same with hardwares and softwares :cry:	, Hence my curiosity forced me to explore how these things worked like magic only to realise later that it is close to magic:hot_face:. 
  blown away by the fact the digits 1 and 0 has the power to control the world ,led me to the obsession with technology. Now i can't keep my hands off it :smiling_face_with_three_hearts:	
 </p>
