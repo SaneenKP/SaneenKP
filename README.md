@@ -35,7 +35,7 @@ I'm Saneen K P. I'm a final year student pursuing Bachelors's in Information Tec
 
 - :open_book:	 looking for open source projects to contribute.
 
-- 💬 Ask me about anything || teach me about anythin.. Always happy to help and happy to get helped :heart:	
+- 💬 Ask me about anything || teach me about anything.. Always happy to help and happy to get helped :heart:	
 
 - 📫 How to reach me **[saneenkp2000@gmail.com](saneenkp2000@gmail.com)**
 <br>
