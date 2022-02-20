@@ -31,7 +31,7 @@ I'm Saneen K P. I'm a final year student pursuing Bachelor's in Information Tech
 
 - 👨🏽‍💻 I’m currently working on improving my android development skills 😉
 
-- 🌱 I’m currently learning Golang ( very much intresting tool ) and problem solving :pick:	
+- 🌱 I’m currently learning Golang ( very much interesting tool ) and problem solving :pick:	
 
 - :open_book:	 looking for open source projects to contribute.
 
