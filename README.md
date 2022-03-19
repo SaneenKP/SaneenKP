@@ -1,6 +1,6 @@
 # ![Build your own X](feynman.png)
 <h1 align="center">
-  Heyy im Saneen's , Welcome to my Profile :)
+  Heyy im Saneen, Welcome to my Profile :)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
