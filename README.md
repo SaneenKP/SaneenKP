@@ -31,7 +31,7 @@ I'm a final year student pursuing Bachelor's in Information Technology 🎓 from
 
 - 👨🏽‍💻 I’m currently working on improving my android development skills 😉
 
-- 🌱 I’m currently learning Golang ( very much interesting tool ) and problem solving :pick:	
+- 🌱 I’m currently learning Golang ( very interesting tool ) and problem solving :pick:	
 
 - :open_book:	 Looking for open source projects to contribute.
 
